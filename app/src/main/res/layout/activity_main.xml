@@ -7,10 +7,12 @@
 
     <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:text="進む"
-            android:id="@+id/buttonMove"/>
+            android:id="@+id/buttonMove"
+            android:enabled="true"/>
     <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:text="戻る"
-            android:id="@+id/return_button"/>
+            android:id="@+id/return_button"
+            android:enabled="true"/>
 
     <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:text="再生"
